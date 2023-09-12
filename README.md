@@ -26,8 +26,8 @@ Je suis étudiant en BUT Informatique à l'IUT de Rodez.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Francois389&theme=darkhub)
 
-![top-lang](https://github-readme-stats.vercel.app/api/top-langs?username=francois389&show_icons=true&locale=en&layout=compact)
+![top-lang](https://github-readme-stats.vercel.app/api/top-langs?username=francois389&show_icons=true&locale=en&layout=compact&theme=dark)
 
-![stat](https://github-readme-stats.vercel.app/api?username=francois389&show_icons=true&locale=fr)
+![stat](https://github-readme-stats.vercel.app/api?username=francois389&show_icons=true&locale=fr&theme=dark)
 
-![streak-stat](https://github-readme-streak-stats.herokuapp.com/?user=francois389&)
+![streak-stat](https://github-readme-streak-stats.herokuapp.com/?user=francois389&theme=dark)
