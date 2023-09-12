@@ -24,7 +24,7 @@ Je suis étudiant en BUT Informatique à l'IUT de Rodez.
 
 ![profil-view](https://komarev.com/ghpvc/?username=francois389&label=Profile%20views&color=0e75b6&style=flat)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Francois389)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Francois389&theme=darkhub)
 
 ![top-lang](https://github-readme-stats.vercel.app/api/top-langs?username=francois389&show_icons=true&locale=en&layout=compact)
 
