@@ -30,4 +30,4 @@ Je suis étudiant en BUT Informatique à l'IUT de Rodez.
 
 ![stat](https://github-readme-stats.vercel.app/api?username=francois389&show_icons=true&locale=fr&theme=onedark)
 
-![streak-stat](https://github-readme-streak-stats.herokuapp.com/?user=francois389&theme=dark)
+![streak-stat](https://github-readme-streak-stats.herokuapp.com/?user=francois389&theme=onedark)
