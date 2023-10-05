@@ -1,6 +1,6 @@
 # Salut, je suis François 👋
 
-Je suis étudiant en BUT Informatique à l'IUT de Rodez.
+Je suis étudiant en BUT Informatique à l'[IUT de Rodez](iut-rodez.fr).
 
 ## Languages and Tools:
 
