@@ -1,8 +1,17 @@
-# Salut, je suis François 👋
+# Bonjour, je suis François 👋
 
 Je suis étudiant en BUT Informatique à l'[IUT de Rodez](https://iut-rodez.fr).
 
-## Langages et Outils :
+## Contacter moi
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/fran%C3%A7ois-de-saint-palais-00985327a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="quentin costes"/></a>
+<a href="https://discord.gg/francis389" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Quentinou" /></a>
+<a href="mailto:francois-sp@gmx.fr" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+</p>
+
+## Langages et Outils
 
 <p > 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
@@ -22,7 +31,7 @@ Je suis étudiant en BUT Informatique à l'[IUT de Rodez](https://iut-rodez.fr).
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p> 
 
-## IDE utlisé
+## IDE utlisés
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -32,11 +41,11 @@ Je suis étudiant en BUT Informatique à l'[IUT de Rodez](https://iut-rodez.fr).
 
 
 
-## Statistique
+## Statistiques
 
 [![profil-view](https://komarev.com/ghpvc/?username=francois389&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Francois389&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=Francois389&theme=onedark&column=-1)
 
 ![top-lang](https://github-readme-stats.vercel.app/api/top-langs?username=francois389&show_icons=true&locale=fr&layout=compact&theme=onedark)
 
