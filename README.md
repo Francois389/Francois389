@@ -28,3 +28,6 @@ Je suis étudiant en BUT Informatique à l'[IUT de Rodez](https://iut-rodez.fr).
 ![](https://raw.githubusercontent.com/Francois389/github-stat/master/generated/overview.svg#gh-dark-mode-only)
 
 ![stat](https://github-readme-stats.vercel.app/api?username=francois389&show_icons=true&locale=fr&theme=onedark)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
