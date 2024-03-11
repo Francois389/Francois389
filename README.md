@@ -28,3 +28,38 @@ Je suis étudiant en BUT Informatique à l'[IUT de Rodez](https://iut-rodez.fr).
 ![](https://raw.githubusercontent.com/Francois389/github-stat/master/generated/overview.svg#gh-dark-mode-only)
 
 ![stat](https://github-readme-stats.vercel.app/api?username=francois389&show_icons=true&locale=fr&theme=onedark)
+
+<!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 20.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 244 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 18 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I Mostly Code in Java** 
+
+```text
+Java                     17 repos            ██████████░░░░░░░░░░░░░░░   39.53 % 
+Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Francois389/Francois389/main/assets/bar_graph.png)
+
+
+ Last Updated on 10/03/2024 18:42:35 UTC
+<!--END_SECTION:waka-->
