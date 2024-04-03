@@ -12,7 +12,7 @@ Je suis étudiant en BUT Informatique à l'[IUT de Rodez](https://iut-rodez.fr).
 
 ## Langages et Outils
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,kotlin,git,html,css,sass,vue,angular,react,bootstrap,js,ts,php,mysql,sqlite,grafana,linux,windows,figma,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,kotlin,git,html,css,sass,vue,angular,react,bootstrap,js,jquery,ts,php,mysql,sqlite,grafana,linux,windows,figma,postman)](https://skillicons.dev)
 
 ## IDE utilisés
 
