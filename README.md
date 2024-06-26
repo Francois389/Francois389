@@ -30,7 +30,7 @@ Je suis étudiant en BUT Informatique à l'[IUT de Rodez](https://iut-rodez.fr).
 ![stat](https://github-readme-stats.vercel.app/api?username=francois389&show_icons=true&locale=fr&theme=onedark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2024%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -94,5 +94,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Francois389/Francois389/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2024 18:44:43 UTC
+ Last Updated on 26/06/2024 18:45:59 UTC
 <!--END_SECTION:waka-->
