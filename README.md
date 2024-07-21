@@ -59,21 +59,16 @@ Sunday                   1479 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Kotlin                   3 mins              ████████████░░░░░░░░░░░░░   47.54 % 
-Properties               2 mins              █████████░░░░░░░░░░░░░░░░   37.61 % 
-HTML                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Java Properties          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-elaastic-questions-server7 mins              █████████████████████████   99.56 % 
-GitFinder                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -93,5 +88,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Francois389/Francois389/main/assets/bar_graph.png)
 
 
- Last Updated on 20/07/2024 18:44:07 UTC
+ Last Updated on 21/07/2024 18:43:21 UTC
 <!--END_SECTION:waka-->
