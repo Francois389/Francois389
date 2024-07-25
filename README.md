@@ -30,6 +30,47 @@ Je suis étudiant en BUT Informatique à l'[IUT de Rodez](https://iut-rodez.fr).
 ![stat](https://github-readme-stats.vercel.app/api?username=francois389&show_icons=true&locale=fr&theme=onedark)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2037%20mins-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3938 commits        ███████░░░░░░░░░░░░░░░░░░   29.54 % 
+🌆 Daytime                6353 commits        ████████████░░░░░░░░░░░░░   47.65 % 
+🌃 Evening                2403 commits        █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+🌙 Night                  639 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   2226 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Tuesday                  2111 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Wednesday                2995 commits        ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+Thursday                 2213 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Friday                   1618 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Saturday                 691 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Sunday                   1479 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -47,5 +88,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Francois389/Francois389/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2024 18:46:19 UTC
+ Last Updated on 25/07/2024 18:43:37 UTC
 <!--END_SECTION:waka-->
