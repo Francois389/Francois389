@@ -30,7 +30,7 @@ Je suis étudiant en BUT Informatique à l'[IUT de Rodez](https://iut-rodez.fr).
 ![stat](https://github-readme-stats.vercel.app/api?username=francois389&show_icons=true&locale=fr&theme=onedark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2040%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -59,16 +59,16 @@ Sunday                   1479 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Word                     2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -88,5 +88,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Francois389/Francois389/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2024 18:45:36 UTC
+ Last Updated on 21/08/2024 18:45:48 UTC
 <!--END_SECTION:waka-->
