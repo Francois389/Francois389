@@ -30,7 +30,7 @@ Je suis étudiant en BUT Informatique à l'[IUT de Rodez](https://iut-rodez.fr).
 ![stat](https://github-readme-stats.vercel.app/api?username=francois389&show_icons=true&locale=fr&theme=onedark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs%2020%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -59,16 +59,25 @@ Sunday                   1479 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   13 mins             ████████░░░░░░░░░░░░░░░░░   33.36 % 
+Vue.js                   11 mins             ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+JavaScript               8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            35 mins             ██████████████████████░░░   87.00 % 
+Android Studio           5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+reprise-vue              19 mins             ████████████░░░░░░░░░░░░░   48.98 % 
+elaastic-next            8 mins              █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+Ticket-resto             5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+untitled                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  40 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -88,5 +97,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Francois389/Francois389/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2024 18:47:51 UTC
+ Last Updated on 30/08/2024 18:46:33 UTC
 <!--END_SECTION:waka-->
