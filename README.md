@@ -2,20 +2,23 @@
 
 Je suis étudiant en BUT Informatique à l'[IUT de Rodez](https://iut-rodez.fr).
 
-## Contactez moi
+## Contactez-moi
 
-<p>
-<a href="https://www.linkedin.com/in/fran%C3%A7ois-de-saint-palais-00985327a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkdin logo"/></a>
-<a href="https://discord.gg/francis389" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord logo" /></a>
-<a href="mailto:francois-sp@gmx.fr" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo"/></a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fran%C3%A7ois-de-saint-palais-00985327a/)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/francis389)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:francois.desaintpalais@iut-rodez.fr)
 
-## Langages et Outils
+## Langages de programmation
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,kotlin,spring,git,go,html,css,sass,svelte,vue,angular,react,bootstrap,ts,jquery,js,php,mysql,sqlite,grafana,linux,windows,figma,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,go,py,html,css,sass,ts,js,php)](https://skillicons.dev)
 
-## IDE utilisés
+## Frameworks et librairies
 
+[![My Skills](https://skillicons.dev/icons?i=spring,jquery,svelte,vue,vuetify,angular,react,bootstrap)](https://skillicons.dev)
+
+## Outils et IDE utilisés
+
+[![My Skills](https://skillicons.dev/icons?i=git,docker,gradle,mysql,mongodb,sqlite,grafana,linux,windows,figma,postman)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=idea,phpstorm,pycharm,androidstudio,vscode,webstorm,eclipse)](https://skillicons.dev)
 
 ## Statistiques
