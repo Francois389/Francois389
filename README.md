@@ -1,12 +1,12 @@
 # Bonjour, je suis François 👋
 
-Je suis étudiant en BUT Informatique à l'[IUT de Rodez](https://iut-rodez.fr).
+Je suis étudiant en Master Informatique parcours SDL à l'[Université de Toulouse](https://www.univ-tlse3.fr/).
 
 ## Contactez-moi
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fran%C3%A7ois-de-saint-palais-00985327a/)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/francis389)
-[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:francois.desaintpalais@iut-rodez.fr)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:francois.de-saint-palais@univ-tlse3.fr)
 
 ## Langages de programmation
 
@@ -28,6 +28,6 @@ Je suis étudiant en BUT Informatique à l'[IUT de Rodez](https://iut-rodez.fr).
 ![trophy](https://github-profile-trophy.vercel.app/?username=Francois389&theme=onedark&column=-1)
 
 ![top-lang](https://raw.githubusercontent.com/Francois389/github-stat/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Francois389/github-stat/master/generated/overview.svg#gh-dark-mode-only)
+![stat](https://raw.githubusercontent.com/Francois389/github-stat/master/generated/overview.svg#gh-dark-mode-only)
 
 ![stat](https://github-readme-stats.vercel.app/api?username=francois389&show_icons=true&locale=fr&theme=onedark)
