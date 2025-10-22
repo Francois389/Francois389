@@ -14,12 +14,12 @@ Je suis étudiant en Master Informatique parcours SDL à l'[Université de Toulo
 
 ## Frameworks et librairies
 
-[![My Skills](https://skillicons.dev/icons?i=spring,jquery,svelte,vue,vuetify,angular,react,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,jquery,vue,vuetify,bootstrap)](https://skillicons.dev)
 
 ## Outils et IDE utilisés
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,gradle,mysql,mongodb,sqlite,grafana,linux,windows,figma,postman)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=idea,phpstorm,pycharm,androidstudio,vscode,webstorm,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,mysql,gradle,mongodb,sqlite,grafana,linux,debian,windows,figma,bruno)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,pycharm,phpstorm,vscode,webstorm,eclipse)](https://skillicons.dev)
 
 ## Statistiques
 
